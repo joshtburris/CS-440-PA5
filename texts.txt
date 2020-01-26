@@ -1,0 +1,29 @@
+
+Pride and prejudice
+http://www.gutenberg.org/files/1342/1342-0.txt
+
+Emma
+http://www.gutenberg.org/files/158/158-0.txt
+
+Sense and sensibility
+http://www.gutenberg.org/files/161/161.txt
+
+Northanger Abbey
+http://www.gutenberg.org/files/121/121-0.txt
+
+Mansfield Park
+http://www.gutenberg.org/files/141/141-0.txt
+
+Persuasion
+http://www.gutenberg.org/files/105/105.txt
+
+
+
+https://github.com/elansparsons/pyAusten
+
+https://github.com/elansparsons/pyAusten/blob/master/analysis.py
+
+
+
+Jane Eyre
+http://www.gutenberg.org/cache/epub/1260/pg1260.txt
